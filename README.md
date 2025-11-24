@@ -21,10 +21,10 @@ data-science-learner-forecasting-2015-2030/
 │ └─ state_level_ds_learners_2015_2025.csv
 │
 ├─ images/
-│ ├─ india_trend.png
-│ ├─ jharkhand_trend.png
-│ ├─ top10_states_2025.png
-│ └─ jharkhand_forecast_2015_2030.png
+│ ├─ india trends.png
+│ ├─ jharkhand trend.png
+│ ├─ top 10 states.png
+│ └─ Jharkhand Forecast 2015-2030.png
 │
 ├─ notebooks/
 │ └─ data_science_learner_forecasting_2015_2030.ipynb
