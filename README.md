@@ -14,25 +14,21 @@ Extract insights useful for students, colleges & edtech companies
 ---
 
 ## Repository Structure
-
-data-science-learner-forecasting-2015-2030
-/
+data-science-learner-forecasting-2015-2030/
 │
-├─ data
-/
+├─ data/
 │ └─ state_level_ds_learners_2015_2025.csv
 │
 ├─ images/
-│ ├─ india trends.png
-│ ├─ jharkhand trend.png
-│ ├─ top 10 states.png
-│ └─ Jharkhand Forecast 2015-2030.png
+│ ├─ india_trend.png
+│ ├─ jharkhand_trend.png
+│ ├─ top10_states_2025.png
+│ └─ jharkhand_forecast_2015_2030.png
 │
 ├─ notebooks/
 │ └─ data_science_learner_forecasting_2015_2030.ipynb
 │
 └─ README.md
-
 ---
 
 ## Tech Used
