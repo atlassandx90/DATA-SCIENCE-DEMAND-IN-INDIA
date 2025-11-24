@@ -15,10 +15,11 @@ Extract insights useful for students, colleges & edtech companies
 
 ## Repository Structure
 
-data-science-learner-forecasting-2015-2030/
+data-science-learner-forecasting-2015-2030
+/
 │
-
-├─ data/
+├─ data
+/
 │ └─ state_level_ds_learners_2015_2025.csv
 │
 ├─ images/
