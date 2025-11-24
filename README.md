@@ -14,6 +14,7 @@ Extract insights useful for students, colleges & edtech companies
 ---
 
 ## Repository Structure
+
 data-science-learner-forecasting-2015-2030/
 │
 ├─ data/
@@ -29,6 +30,7 @@ data-science-learner-forecasting-2015-2030/
 │ └─ data_science_learner_forecasting_2015_2030.ipynb
 │
 └─ README.md
+
 ---
 
 ## Tech Used
